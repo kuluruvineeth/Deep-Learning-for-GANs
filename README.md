@@ -17,3 +17,11 @@
       * Using a Gaussian Latent Space
       * Using Label Smoothing
       * Using Noisy Labels
+
+## 3. [Developing a 1D GAN from Scratch](https://github.com/kuluruvineeth/Deep-Learning-for-GANs/blob/main/Developing%201D%20GAN%20from%20Scratch.ipynb)
+   * Selecting a One-Dimensional Function
+   * Defining a Discriminator Model
+   * Defining a Generator Model
+   * Training the Generator Model
+   * Evaluating the Performance of the GAN
+   * Complete Example of Training the GAN
